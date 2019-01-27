@@ -1,2 +1,2 @@
 This is Sample Text File.
-To test the Jenkins Scource Code Polling.
+To test the Jenkins Source Code Polling.
